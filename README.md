@@ -1,6 +1,6 @@
 # Mine for blocks with Microsoft Windows
 
-Click here to download the file sciia-windows.zip.
+Click here(https://github.com/sciprotocol/core/releases/) to download the file sciia-windows.zip.
 
 Open File Explorer and go to your downloads directory.
 
